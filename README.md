@@ -1,2 +1,2 @@
 # Machine-Learning-Lab
-Machine Learning Practical for Semester 7.
+Machine Learning Practicals for Semester 7.
